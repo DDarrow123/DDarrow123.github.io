@@ -77,9 +77,27 @@ body {
   position: absolute;
 }
 
+.video-header-name {
+  background: rgba(0, 0, 0, 0.2);
+  color: #f1f1f1;
+  width: 25%;
+  padding: 20px;
+  top: 100px;
+  right: 300px;
+  margin-left: 40px;
+  text-align: center;
+  position: absolute;
+}
+
 .welcome-text {
   font-size: 80px;
   letter-spacing: 1em;
+}
+
+.welcome-text-name {
+  font-size: 40px;
+  letter-spacing: 2em;
+  line-height: 35px;
 }
 
 /*FOR ABOUT AND PORTFOLIO PAGE*/
